@@ -1,0 +1,60 @@
+/* Top banner */
+
+.banner-seciton {
+    position: relative;
+    z-index: -999999;
+    background: #dbdbdb;
+    top: -35px;
+    padding: 10px;
+}
+
+#banner,
+eventBox {
+    background: #000;
+    position: relative;
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    overflow: hidden;
+    height: 600px;
+}
+
+#banner img {
+    width: 100%;
+    display: block;
+}
+
+/* slider */
+.slideList {
+    position: relative;
+    width: auto;
+    height: 400px;
+}
+
+.slideList .slideImg {
+    float: left;
+    width: 1200px;
+}
+
+
+/* spoAny Mall Banner */
+
+
+.slide {
+    width: 1200px;
+    height: 300px;
+    overflow: hidden;
+}
+
+.slide ul {
+    padding: 0;
+    height: 100%;
+}
+
+.slide li {
+    height: 100%;
+}
+
+
+
+

@@ -1,0 +1,17 @@
+{
+    "sass.enabled": false,
+    "sass.compiler": "libsass",
+    "path": {
+        "scss/*.scss": {
+            "sass.enabled": true,
+            "sass.options": {
+                "includePaths": [ ],
+                "outputDir": "../css/",
+                "imagePath": null,
+                "sourceComments": false,
+                "outputStyle": "nested"    /* :expanded or :nested or :compact or :compressed */
+            },
+            "linting.collapsed": false
+        }
+
+}
